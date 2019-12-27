@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="name">Jeon Jung Kook</string>
+    <string name="button">Follow</string>
+    <string name="location">Seoul,South Korea</string>
+    <string name="txt_about">About</string>
+    <string name="txt_34">34</string>
+    <string name="txt_50M">50M</string>
+    <string name="txt_post">Post</string>
+    <string name="txt_followers">Followers</string>
+    <string name="txt_header">About</string>
+    <string name="about_des">Jeong-guk Jeon, Actor: BTS: Idol.
+        Jeon Jung-Kook is the youngest member of a South Korean K-pop idol boy group,BTS,
+        who are formed by BigHit Entertainment. His role in the group is main vocalist,
+        lead dancer and supporting rapper.</string>
+</resources>
